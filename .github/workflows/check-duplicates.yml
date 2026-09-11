@@ -1,0 +1,31 @@
+name: Vérification doublons pages_cache
+
+on:
+  # Se déclenche automatiquement après chaque run du scraping
+  workflow_run:
+    workflows: ["Scraping prospection agences"]
+    types:
+      - completed
+  # Et lançable manuellement à tout moment depuis l'onglet Actions
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    # Ne tourne que si le workflow de scraping a réussi (évite de checker un
+    # cache potentiellement incomplet suite à un run en échec)
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Vérifier les doublons
+        run: python3 check_duplicates.py pages_cache.jsonl

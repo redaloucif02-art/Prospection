@@ -1,0 +1,29 @@
+name: Audit champs manquants
+
+on:
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Générer l'audit
+        run: python -u audit_missing.py
+
+      - name: Commit et push le résultat
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add audit_missing.json
+          git diff --quiet --cached || git commit -m "Audit champs manquants ($(date -I))"
+          git push

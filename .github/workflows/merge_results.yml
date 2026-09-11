@@ -1,0 +1,43 @@
+name: Appliquer les résultats à prospection.csv
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Simulation uniquement (affiche les changements sans écrire)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Appliquer extraction_results.jsonl à prospection.csv
+        env:
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: |
+          FLAG=""
+          if [ "$DRY_RUN" = "true" ]; then
+            FLAG="--dry-run"
+          fi
+          python merge_results.py $FLAG
+
+      - name: Commit et push prospection.csv
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add prospection.csv
+          git diff --quiet --cached || git commit -m "Application des résultats extraits à prospection.csv ($(date -I))"
+          git push

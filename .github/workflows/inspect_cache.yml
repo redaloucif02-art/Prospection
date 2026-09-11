@@ -1,0 +1,31 @@
+name: Inspecter pages_cache.jsonl
+
+on:
+  workflow_dispatch:
+    inputs:
+      nom:
+        description: "Sous-chaîne à chercher dans le nom de l'agence (vide = 1re ligne du cache)"
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Inspecter le cache
+        run: |
+          if [ -n "${{ github.event.inputs.nom }}" ]; then
+            python inspect_cache.py --nom "${{ github.event.inputs.nom }}"
+          else
+            python inspect_cache.py
+          fi

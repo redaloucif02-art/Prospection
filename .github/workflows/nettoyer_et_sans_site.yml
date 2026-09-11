@@ -1,0 +1,44 @@
+name: Nettoyer agences supprimées + lister sans site web
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Simulation uniquement (rien n'est modifié)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Lancer le nettoyage
+        env:
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: |
+          FLAG=""
+          if [ "$DRY_RUN" = "true" ]; then
+            FLAG="--dry-run"
+          fi
+          python nettoyer_et_sans_site.py $FLAG
+
+      - name: Commit et push les changements
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add prospection.csv extraction_results.jsonl agences_sans_site.csv \
+                   prospection.csv.bak extraction_results.jsonl.bak
+          git diff --quiet --cached || git commit -m "Nettoyage agences supprimées + liste sans site ($(date -I))"
+          git push
