@@ -1,0 +1,175 @@
+﻿Pays,Ligne originale,Nom de l’agence,Téléphone de l’agence,Site web,Ville / département,Email de l’agence,Email du gérant,Critères de détection
+Belgique,145,Abita IMMO,+32 2 726 89 75,http://immoabita.be/,"Av. des Cerisiers 95, 1200 Woluwe-Saint-Lambert, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,154,Abrimmo Estaimpuis,+32 56 55 40 00,https://www.abrimmo.be/,"Rue Jules Vantieghem 8b, 7730 Estaimpuis, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,184,Acheter Louer,+41 21 943 61 81,http://www.acheter-louer.ch/,"Av. de la Rasude 2, 1006 Lausanne, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,265,Advanceimmo Mons,+32 492 28 80 00,https://www.advanceimmo.be/,"Rue des Archers 4, 7000 Mons, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,269,AE Schmid SA,+41 22 860 27 37,http://www.aeschmid.ch/,"Chem. de la Seymaz 60, 1253 Vandœuvres, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,289,AG Immobilière,+32 4 233 55 55,http://www.agimmobiliere.be/,"Chau. de Tongres 325, 4000 Liège, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,295,AGCI Immobilier,+41 79 504 65 48,http://www.agci.ch/,"Avenue Vibert 13, CP 1402, 1227 Carouge, Suisse",,gallo@agci.ch,phone+41 | site.ch | address-suisse | reference-email
+Suisse,631,Agence Domus SA,+41 27 771 69 69,http://www.agencedomus.ch/,"Rte des Creux 24, 1936 Verbier, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,702,Agence Dupont Immobilier,+32 69 40 73 80,http://www.dupontimmo.be/,"Grand'Place 27, 7500 Tournai, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,752,Agence Génération Immo,+32 10 68 81 22,https://www.generationimmo.be/,"Bd du Centenaire 2, 1325 Chaumont-Gistoux, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,1127,Agence Immobilière Le Lion - Bruxelles,+32 2 672 71 11,https://www.immo-lelion.be/,"Av. Delleur 8, 1170 Bruxelles, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,1258,Agence Immobilière TRIOR Louise,+32 2 640 22 35,https://www.trior.be/agence-immobiliere-louise,"Av. Louise 523, 1050 Bruxelles, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,1660,AIM ｜Agence Immobilière Montoise,+32 65 31 83 23,http://www.agenceaim.be/,"Rue de Bertaimont 42, 7000 Mons, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,1727,AllianceImmo Suisse,+41 24 454 10 84,http://allianceimmo.ch/,"Rue du Franc-Castel 10, 1454 L' AUBERSON, Suisse",,david@davidimmo.info,phone+41 | site.ch | address-suisse | reference-email
+Suisse,1728,AllianceImmo Suisse Sàrl,+41 24 454 10 84,http://allianceimmo.ch/,"Rue du Franc-Castel 10, 1454 L' AUBERSON, Suisse",,,phone+41 | site.ch | address-suisse
+Suisse,1788,Amma Immo,,,,,jeanpierre.tolo@yades.immo,reference-email
+Suisse,1842,Apleona,,,,,michael.rohner@apleona.com,reference-email
+Belgique,1922,Aryès Immobilier,,,,,anouk.renard@aryes.be,reference-email
+Belgique,1957,Atimmo,+32 2 331 55 10,http://www.atimmo.be/,"Rue Marguerite Bervoets 60, 1190 Bruxelles, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,2016,Avenir Immobilier,+33 5 63 38 50 40,http://www.immo-avenir.com/,"18 Rue Dr Laurent Camboulives, 81000 Albi, France",,david@avenir-immobilier.be,reference-email
+Suisse,2072,B. Mooser Immobilier SA,,,,contact@bm-immo.ch,,reference-email
+Suisse,2106,BARNES | Lugano,,,,,lugano@barnes-international.com,reference-email
+Suisse,2121,Bay Invest Sàrl,+41 79 355 29 73,http://bayinvest.ch/,"Rue de Saint-Guérin 30, 1950 Sion, Suisse",,,phone+41 | site.ch | address-suisse
+Suisse,2125,BC IMMO,+33 1 44 75 38 84,https://www.immobc.com/,"4 Rue Théophile Roussel, 75012 Paris, France",,jf@bcimmo.ch,reference-email
+Belgique,2133,BDG immo,,,,,benjamin@bdgimmo.be,reference-email
+Suisse,2189,BETTERHOMES,,,,,cyrill.lanz@betterhomes-international.com,reference-email
+Belgique,2289,Brick,,,,,henry@brick.immo,reference-email
+Belgique,2693,CAMIMAX,,,,,olivier@camimax.com,reference-email
+Belgique,2711,CAP SUD,+33 4 94 17 48 05,http://www.cap-immosud.fr/,"370 Av. lou Gabian, 83600 Fréjus, France",,alessandro.santoro@cap-sud.com,reference-email
+Belgique,2795,CD CONSULT L'IMMOBILIERE SRL,+32 4 222 21 21,http://www.cdconsult.be/,"Av. Laboulle 32, 4130 Esneux, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,2887,Chris Home immobilier,+32 491 36 66 61,https://www.chris-home.be/,"Chau. de Dinant 1068, 5100 Namur, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,2901,"Cie Immobilière des Trois Frontières, Immobilier",+32 87 78 50 78,http://www.citf.be/,"Pl. du Colonel Peckham 4, 4851 Plombières, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,2915,cirgroup,,,,,clement.baudoin@cirgroup.ch,reference-email
+Suisse,3008,comptoir-immo,,,,,epiney@comptoir-immo.ch,reference-email
+Belgique,3025,CONNEXION IMMO,+33 1 77 37 10 10,http://www.connexion-immobilier.com/,"44 Bd du Général Leclerc, 92110 Clichy, France",,g.lazzaro@connexionimmo.be,reference-email
+Belgique,3166,David Robin Immobilier,+32 71 81 08 88,http://www.davidrobin.be/,"Chée de Charleroi 226, 6220 Fleurus, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,3169,DB Properties,+32 497 25 42 38,http://www.db-properties.be/,"Rue de Mont Saint-Pont 24, 1440 Braine-le-Château, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,3184,Dealimmo,,,,,nicolas.pa@dealimmo.be,reference-email
+Suisse,3295,Domus Realty,+41 91 966 33 55,http://www.domusrealty.com/,"Viale S. Salvatore 7, 6900 Paradiso, Suisse",,,phone+41 | address-suisse
+Belgique,3328,Dupont Immobilier,+32 69 40 73 80,http://www.dupontimmo.be/,"Grand'Place 27, 7500 Tournai, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,3332,Duysens Immobilier,+32 84 45 52 10,http://www.duysens.be/,"Place Roi Albert 1er 31, 5580 Rochefort, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,3342,EasyHome- Agence immobilière Marche-en-Famenne,+32 84 77 00 43,https://www.easyhome-immo.be/,"Rue Borchamps 24, 6900 Marche-en-Famenne, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,3470,Espace Immo Brussels,,,,,dp@espaceimmobrussels.be,reference-email
+Suisse,3492,ESTÉ HOMES SARL,,,,,sophien@este-homes.ch,reference-email
+Belgique,3569,Expertissimmo SRL,,,,,julien@expertissimmo.eu,reference-email
+Suisse,3597,Favre-Naudeix Immobilier,+41 79 902 84 26,https://www.favre-naudeix.ch/,"Rte André Piller 21, 1762 Givisiez, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,3600,FB-IMMOBILIER / FBBC srl,+32 477 88 12 07,http://www.fb-immobilier.be/,"Rue Léon Debelle 60, 7170 Bois-d'Haine, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,3663,FLOW Real Property,+32 2 304 69 98,http://www.flowrealproperty.be/,"Brusselsesteenweg 106, 1850 Grimbergen, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,3684,FR 'n BE Immobilier,,,,contact@frnbe-immo.be,,reference-email
+Suisse,3717,Froidevaux Immobilier SA,,,,,gf@froidevaux-immobilier.ch,reference-email
+Suisse,3758,GARY S.A,,,,,gregory@gary.ch,reference-email
+Suisse,3787,Gérances de Luze SA,+41 21 811 22 22,https://deluze.ch/,"Pl. Dufour 1, 1110 Morges, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,3811,Gestion Immobilière Tournaisienne (Git),+32 69 23 40 02,https://www.git.be/,"Av. de Maire 177A, 7500 Tournai, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,3860,Go Invest - Real Estate,+32 2 252 01 20,http://www.go-invest.be/,"Av. des Églantiers 2B, 1180 Uccle, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,3877,GRAND PLACE IMMOBILIER,,,,,degeeter@grandplace.be,reference-email
+Suisse,3881,GRANGE Immobilier,,,,,j.grange@grange.ch,reference-email
+Suisse,3914,GROHE IMMOBILIER SA,+41 21 811 32 23,http://www.groheimmobilier.ch/,"Rue Louis de Savoie 51, 1110 Morges, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,3926,GuiHome Immobilier,+32 56 94 20 48,https://www.guihome.immo/,"Rue du Faubourg 24, 7780 Comines-Warneton, Belgique",,guillaume@guihome.immo,phone+32 | address-belgique | reference-email
+Suisse,4005,Helvet Conseils Immo Sàrl,,,,,leo.duarte@helvet-conseils.ch,reference-email
+Belgique,4014,Henro Immobilier Mouscron,+32 56 94 34 94,http://www.henro-immo.be/,"Chau. de Gand 22, 7700 Mouscron, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4018,Heritage Vastgoed BV,+32 9 227 08 90,http://heritagevastgoed.be/,"Stationsplein 5, 9880 Aalter, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4024,Hervé Lebrun Immobilier,+32 496 53 93 65,https://www.hervelebrun.be/fr,"Chau. de Tirlemont 30, 4520 Wanze, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4036,HexpertImmo,,,,,jha@hexpertimmo.be,reference-email
+Belgique,4059,Home Consult,+32 2 731 07 07,http://www.home-consult.be/,"A. De Beusscherplein 2, 1933 Zaventem, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4062,HOME EXPERT IMMO,+32 81 46 08 89,https://www.hexpertimmo.be/,"Pl. Albert 1er 9 à, 5081 La Bruyère, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,4069,Home Location,+41 22 512 00 92,http://www.homelocation.ch/,"Rue Voltaire 16, 1201 Genève, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,4088,homea-immo,,,,,geoffroy.cassart@homeaimmo.be,reference-email
+Suisse,4093,Homewell SA,,,,,nicolas.leyvraz@homewell.ch,reference-email
+Belgique,4099,Honesty Rochefort - Agence Immobilière,+32 84 45 64 58,http://honestyrochefort.be/,"Ouvert 6 j sur 7 - Samedi sur RDV, Rte de Marche 25, 5580 Rochefort, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,4113,House Immobilier,+41 22 360 10 00,http://www.house-immobilier.ch/,"Rte de Thonon 70, 1222 Vésenaz, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,4114,HOUSE IMMOBILIER Mons,+32 479 73 52 33,http://www.house-immobilier.be/,"Avenue Mélina Mercouri 9, Board 5, 7000 Mons, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4122,https://pim.be/,,,,,deckers@pim.be,reference-email
+Suisse,4134,I-Facchinetti Sàrl,+41 79 615 33 55,https://yellow.local.ch/d/NbsEGkqjcUnes1HmUwIsSw,"Rte de Montet 25, 1588 Cudrefin, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,4139,I.R.I.S. S.A. immobilière,+32 87 47 49 95,http://www.irisimmo.be/,"Rue de la Gare 4 à, 4900 Spa, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4178,igg immo,,,,,gregory@igg.immo,reference-email
+Belgique,4186,IKOAB,,,,,amaury@ikoab.com,reference-email
+Belgique,4216,IMMEXPERTS Andenne,+32 85 84 41 91,http://www.immexperts.be/,"Prom. des Ours 5/7, 5300 Andenne, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4222,Immo 123,,https://123-immobilier.fr/,"22 Av. de la Feuillade, 26200 Montélimar, France",,pieter@immo123.info,reference-email
+Belgique,4246,Immo Chrono,+32 64 77 54 44,http://www.immo-chrono.be/,"Chau. Paul Houtart 252, 7110 La Louvière, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4248,Immo Clairière - Agence Immobilière de Braine-l'Alleud,+32 2 385 18 18,http://www.immoclairiere.be/,"Av. Napoléon 1, 1420 Braine-l'Alleud, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4262,Immo Costamar,,,,,allemann.laetitia@gmail.com,reference-email
+Belgique,4291,Immo Francois - Brugge Centrum,+32 50 32 34 34,https://www.immofrancois.be/,"Vlamingstraat 26, 8000 Brugge, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4294,IMMO ICC,,,,,criscenzo.calo@gmail.com,reference-email
+Belgique,4298,Immo Léco,,,,,christopher@immoleco.be,reference-email
+Belgique,4304,IMMO MDi,+32 2 353 24 30,https://mdi.be/,"Rue d'Amsterdam 27, 1400 Nivelles, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4306,Immo One - agence immobilière Anderlecht,+32 2 522 51 22,http://www.immo-one.eu/,"Rue de Neerpede 370, 1070 Anderlecht, Belgique",,,phone+32 | address-belgique
+Belgique,4325,Immo Synergie,+32 476 78 30 62,http://www.immosynergie.be/,"Rue des Ragayets 32, 4042 Herstal, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4330,IMMO VILLAGES,,,,,thierry.demey@immovillages.com,reference-email
+Belgique,4331,IMMO VISION - Agence immobilière,+32 71 11 53 91,https://www.immobiliervision.be/,"Chau. de Charleroi 31, 6061 Charleroi, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4334,Immo-Axess,,,,info@immo-axess.be,,reference-email
+Belgique,4336,immo-bia,,,,,l.bronckart@immo-bia.com,reference-email
+Suisse,4337,Immo-Consulting S.A.,+41 21 792 13 13,http://www.immo-consulting.ch/,"Rue du Bourg 1, 1095 Lutry, Suisse",,,phone+41 | site.ch | address-suisse
+Suisse,4341,Immo-V (Five) SàRL,,,,,alain@immo-v.ch,reference-email
+Belgique,4350,Immo2.0 Smart Agency,+32 2 209 10 70,http://www.immo2-0.com/,"Av. Paul Janson 82, 1070 Anderlecht, Belgique",,,phone+32 | address-belgique
+Suisse,4351,IMMO2F – AGENCE IMMOBILIERE,,,,,fabien@immo2f.ch,reference-email
+Suisse,4364,Immobilien AG 'Im Spittel' c/o ARO Knechtle AG,+41 71 552 79 00,http://www.aroknechtle.ch/,"Kasernenstrasse 4, 9100 Herisau, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,4478,Immobilière Deschamps sa,,http://www.immodeschamps.be/,"Rue de Bruxelles 27, 1480 Tubize, Belgique",,,site.be | address-belgique
+Belgique,4487,Immobilière du Hainaut (IDH),,,,,emmanuelle@immobiliereduhainaut.be,reference-email
+Belgique,4504,Immobilière L. A. Sambreville,+32 71 14 08 91,http://www.immobilierela.be/,"Rue du Tram 4, 5060 Sambreville, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4624,Immotop One,+32 65 60 16 01,https://immotop.be/fr/,"Av. de Jemappes 173, 7000 Mons, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,4644,IMRO Immobilière Romande SA,+41 22 849 88 83,http://www.imro.ch/,"Av. de Frontenex 6, 1207 Genève, Suisse",,,phone+41 | site.ch | address-suisse
+Suisse,4656,Infinimmo,,,,,v.grange@infinimmo.ch,reference-email
+Belgique,4732,J&J Properties,,,,,john.de.troyer@jj-properties.be,reference-email
+Belgique,4738,JAM Properties,+32 2 534 21 87,http://www.jamproperties.be/,"Chau. de Charleroi 259, 1060 Saint-Gilles, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,4794,JNP Immobilier,+32 4 377 33 10,https://jnpimmo.be/fr,"Av. Rogier 19, 4000 Liège, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,4839,JURAIMMOBILIER SA,+41 32 422 98 22,https://juraimmobilier.ch/,"Rue de l'Avenir 12, 2800 Delémont, Suisse",,,phone+41 | site.ch | address-suisse
+Suisse,4910,krealimmo,,,,,Piero.pastore@krealimmo.ch,reference-email
+Belgique,5144,L'intermédiaire immobilier,+32 71 19 58 58,https://www.lintermediaire-immo.be/,"Rue de la Source 4, 6182 Courcelles, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,5285,Labelgemaison,,,,,Eric@labelgemaison.be,reference-email
+Suisse,5339,LB Immobilier,+33 4 89 03 90 17,http://www.lb-immobilier.fr/,"4 Av. de Verdun, 06000 Nice, France",,benoit.legay@lb-immobilier.ch,reference-email
+Belgique,5371,LE CLUB IMMOBILIER,,,,,pascal@club-immobilier.be,reference-email
+Belgique,5378,Le DEAL immobilier,+32 71 34 11 32,http://www.dealimmo.be/,"Rue du Calvaire 22a, 6041 Charleroi, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,5474,Les Bois du Cerf - Agence Immobilière,+32 456 20 06 19,https://www.lesboisducerf.be/,"Pl. de l'Hôtel de Ville 4/1, 5650 Walcourt, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,5502,Les Maisons Ferrian,,,,,marco@lesmaisonsferrian.be,reference-email
+Belgique,5517,Les Viviers Immobilier,,,,,dominique@urbano-immo.be,reference-email
+Belgique,5543,"Likeimmo, Agence Immobilière Mouscron",+32 56 56 12 34,http://www.likeimmo.be/index.php,"Rue Saint-Achaire 86, 7700 Mouscron, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,5618,Lookmove,,,,,maxime.danibert@lookmove.ch,reference-email
+Suisse,5664,LUXURY PLACES - FINE HOMES OF SWITZERLAND,,,,,david.colle@luxury-places.ch,reference-email
+Suisse,5720,Maillard Immobilier SA,,,,,mathieu@maillard-immo.ch,reference-email
+Suisse,5721,Maillard Immobilier SA - Agence immobilière - Lausanne,+41 21 510 50 60,https://www.maillard-immo.ch/?utm_source=google&utm_medium=organic&utm_campaign=my-business&utm_id=lausanne,"Av. de Rhodanie 46b, 1007 Lausanne, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,5855,Maximmo - Huis verkopen of kopen - Uw vastgoedmakelaar in Lauwe - Rekkem - Menen,+32 56 29 50 50,http://www.maximmovastgoed.be/,"Lauweplaats 14, 8930 Menen, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,5917,Mielimmo SA,+41 21 624 12 93,https://www.mielimmo.ch/,"En Budron B17, 1052 Le Mont-sur-Lausanne, Suisse",,,phone+41 | site.ch | address-suisse
+Suisse,5920,Millenium Properties,+41 22 342 44 12,https://www.milleniumproperties.ch/,"Bd du Théâtre 5, 1204 Genève, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,5992,Morganimmo,+32 470 90 09 00,http://www.morganimmo.be/,"Rue Emile Mathieu 23/1, 7333 Saint-Ghislain, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,6014,MULLER & PARTNERS,+32 471 22 99 10,http://www.mullerpartners.be/,"Rue du Perron 20, 4600 Visé, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,6016,muller-immobilier,,,,admin@muller-immobilier.ch,,reference-email
+Belgique,6051,MYIMMO Ixelles,+32 2 344 94 21,https://www.myimmo.be/fr/,"Av. de l'Université 40, 1050 Bruxelles, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,6085,Neho,,,,,eric@neho.ch,reference-email
+Suisse,6107,New Life Immo,+41 78 979 77 44,https://newlifeimmo.ch/,"Chem. du Foron 16/4ème étage, 1226 Thônex, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,6110,Newtendances,,,,,nathaliefraipont@newtendances.be,reference-email
+Suisse,6126,Nicole & Catherine MICHEL Agence immobilière Sàrl,,,,,nicole@nicolemichel.ch,reference-email
+Suisse,6129,Nideal Immobilier Sàrl,,,,,maurizio.pellitteri@nideal.ch,reference-email
+Belgique,6154,"Nova Immo, le partenaire de votre région !",+32 67 85 67 67,https://nova-immo.be/,"Chau. de Mons 356, 1480 Tubize, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,6175,Objectif immobilier,,,,,francois@objectif-immobilier.be,reference-email
+Suisse,6212,OMNIA Immobilier SA,+41 21 351 31 31,http://www.omnia.ch/,"Pl. Benjamin-Constant 2, 1003 Lausanne, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,6242,Origin immo,+32 475 75 22 44,http://www.originimmo.eu/,"Chau. de Louvain 494, 1030 Bruxelles, Belgique",,,phone+32 | address-belgique
+Belgique,6347,Passion Immobilière (Philippeville),+32 71 66 86 66,http://www.passionimmobiliere.be/,"Rue de France 37, 5600 Philippeville, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,6463,Pons realty,,,,,benjamin@pons-realty.com,reference-email
+Belgique,6541,Property Hunter,,,,,Elsa@propertyhunter.be,reference-email
+Suisse,6555,Proximmo,,,,,laurent@proximmo.ch,reference-email
+Belgique,6621,REFLEX IMMO,+32 65 45 05 20,https://www.refleximmo.be/,"Rue Clémenceau 201, 7340 Colfontaine, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,6755,Rodolphe Burger SA,+41 22 716 50 50,http://www.burger-sa.ch/,"Rue de Lyon 93, 1203 Genève, Suisse",,,phone+41 | site.ch | address-suisse
+Suisse,6766,Rosset Immobilier - Régie immobilière | Genève,+41 22 339 39 39,https://www.rosset.ch/#utm_source=google&utm_medium=Places&utm_campaign=Geneve,"Rte de Chancy 85, 1213 Onex, Suisse",,,phone+41 | site.ch | address-suisse
+Suisse,6872,SARL Léman Suisse Immo,+33 4 80 95 92 95,http://www.lemansuisseimmo.fr/,"48 Rte des Vallées, 74100 Annemasse, France",,lemansuisseimmo@gmail.com,reference-email
+Suisse,6907,Schwaar Immo Sàrl,,,,,jean-marc@schwaarimmo.ch,reference-email
+Suisse,6911,SDA Immobilier,,,,,silvie@sdaimmobilier.ch,reference-email
+Suisse,6938,selpoivre-immo,,,,,marta@selpoivre.ch,reference-email
+Belgique,6947,sepi immo,+32 71 33 15 00,http://www.sepi-immo.be/,"Bd Audent 45, 6000 Charleroi, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,6952,Serenimmo,+32 475 95 53 93,https://www.serenimmo.be/,"Chau. d'Alsemberg 620, 1180 Uccle, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,7020,SMART Habitat,+32 498 08 37 93,http://www.smart-habitat.be/,"Rue de Pâturages 57, 7041 Givry, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,7028,SMI SA Service Management Immobilier,+41 26 912 04 04,http://www.smisa.ch/,"Rue de la Lécheretta 27, 1630 Bulle, Suisse",,,phone+41 | site.ch | address-suisse
+Belgique,7090,Sorimo,,,,,mquestiaux@sorimo.be,reference-email
+Belgique,7093,sothebysrealty,,,,,vm@sothebysrealty.be,reference-email
+Belgique,7112,STAG,+32 498 52 80 80,https://www.stag.immo/,"Rue Saint-Martin, 71, bte 2, 5000 Namur, Belgique",,,phone+32 | address-belgique
+Suisse,7138,STONE INVEST,+41 22 342 47 17,http://stone-invest.ch/,"Av. de la Praille 37, 1227 Carouge, Suisse",,sebastien@stone-invest.fr,phone+41 | site.ch | address-suisse | reference-email
+Suisse,7160,Suisse Immo Montbéliard,+33 3 81 34 25 14,https://montbeliard.suisse-immo.fr/,"9 Pl. Denfert Rochereau, 25200 Montbéliard, France",,stephane.vauthier@suisse-immo.fr,reference-email
+Suisse,7176,Swiss Patrimoine Immobilier SA,,,,,pl@spi-immo.ch,reference-email
+Suisse,7177,Swiss Sun Valais Sàrl,,,,,o.drapier@swisssunvalais.ch,reference-email
+Suisse,7178,Swixim Douvaine,,,,,j.lamarre@swixim.com,reference-email
+Suisse,7189,SZ Immobilier SA,,,,,david.salamin@sz-immo.ch,reference-email
+Belgique,7310,trassudimmo,,,,,trassudimmo@msn.com,reference-email
+Belgique,7315,Trevi,,,,,tcooremans@trevi.be,reference-email
+Suisse,7329,Trust Immobilier Sàrl,,,,,iryna@trustimmobilier.ch,reference-email
+Belgique,7354,Urban Concept Grez-Doiceau - agence immobilière Grez-Doiceau,+32 10 77 91 99,https://www.urban-concept.be/,"Chau. de Wavre 287, 1390 Grez-Doiceau, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,7378,valcity,+33 3 22 96 44 50,http://valcity.fr/contact/,"7 Rue du Général Leclerc, 80000 Amiens, France",,stephane.pfammatter@valcity.ch,reference-email
+Belgique,7429,VDM Immobilier,+32 56 55 64 64,http://www.vdmimmobilier.be/,"Rue de la Gare 41, 7780 Comines-Warneton, Belgique",,,phone+32 | site.be | address-belgique
+Belgique,7464,Viagerbel,,,,,olivier@viagerbel.be,reference-email
+Belgique,7465,VIAH!,,,,,philippe@viah.be,reference-email
+Belgique,7471,Victoire,+33 4 37 91 27 77,http://www.victoire-immo.fr/,"108 Cours Dr Long, 69003 Lyon, France",,jean.corman@victoire.be,reference-email
+Suisse,7500,Vincent Grognard,,,,,vincent@immo4g.ch,reference-email
+Belgique,7510,Vision Immo,+32 71 11 53 91,https://www.immobiliervision.be/,"Chau. de Charleroi 31, 6061 Charleroi, Belgique",,,phone+32 | site.be | address-belgique
+Suisse,7542,Votrecourtier.ch SA,,,,,alexandre.mirfassihi@votrecourtier.ch,reference-email
+Suisse,7557,Wayne,,,,,sebastien@wayne.ch,reference-email
+Belgique,7565,Welcome at home - Agence Immo,+32 460 97 29 75,https://welcomeathome.be/,"Bd d'Avroy 116, 4000 Liège, Belgique",,,phone+32 | site.be | address-belgique
